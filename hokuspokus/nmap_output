@@ -1,0 +1,14 @@
+# Nmap 7.80 scan initiated Tue Jan 21 09:53:20 2025 as: nmap -sn -oG nmap_output 10.0.1.0/24
+Host: 10.0.1.10 ()	Status: Up
+Host: 10.0.1.11 (speakers.home)	Status: Up
+Host: 10.0.1.12 ()	Status: Up
+Host: 10.0.1.16 (pavel-think.home)	Status: Up
+Host: 10.0.1.21 ()	Status: Up
+Host: 10.0.1.25 (wlan0-1.home)	Status: Up
+Host: 10.0.1.29 (pavel-honor.home)	Status: Up
+Host: 10.0.1.30 (android-4.home)	Status: Up
+Host: 10.0.1.31 (samsung-refrigerator.home)	Status: Up
+Host: 10.0.1.33 (com-mid1-1.home)	Status: Up
+Host: 10.0.1.138 (o2smartbox2.home)	Status: Up
+Host: 10.0.1.15 (host.docker.internal)	Status: Up
+# Nmap done at Tue Jan 21 09:53:29 2025 -- 256 IP addresses (12 hosts up) scanned in 8.30 seconds
