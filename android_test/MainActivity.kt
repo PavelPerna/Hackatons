@@ -1,0 +1,13 @@
+package com.example.helloworld
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        // Here you would normally call into Rust code, but for simplicity:
+        println("Hello from Kotlin!")
+    }
+}
